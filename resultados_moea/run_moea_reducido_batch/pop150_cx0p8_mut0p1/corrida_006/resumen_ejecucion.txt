@@ -1,0 +1,19 @@
+Resultados finales
+==================
+Instancia: config/instance_nfl_reducido.properties
+Semilla MOEA: 1455500169
+Criterio de parada: stagnation
+Tiempo de ejecución: 174763 ms
+Generaciones ejecutadas: 456
+Límite de generaciones: 1000
+Parada por estancamiento: umbral relativo = 0.005, ventana = 100 generaciones
+Tamaño del frente de Pareto: 13
+
+Rango de objetivos:
+  F1 (Distancia): 196479 - 216710
+  F2 (Inequidad): 0.1914 - 0.3567
+
+Soluciones factibles: 13/13
+
+Estancamiento: generaciones sin mejora = 100
+Última mejora relativa vs. ventana: 0.0000

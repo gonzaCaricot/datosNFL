@@ -1,0 +1,5 @@
+run;instance;seed;stop_reason;time_ms;generations;max_generations;pareto_size;stagnation_threshold;stagnation_window;run_dir
+1;config/instance_nfl_reducido.properties;575346467;stagnation;22212;100;1000;3;0.005;100;C:\AE\AlgoritmoEvolutivoIng\AlgoritmoEvolutivo\resultados_moea\run_moea_reducido_batch\pop200_cx0p8_mut0p1\corrida_001
+2;config/instance_nfl_reducido.properties;690022610;stagnation;52161;190;1000;5;0.005;100;C:\AE\AlgoritmoEvolutivoIng\AlgoritmoEvolutivo\resultados_moea\run_moea_reducido_batch\pop200_cx0p8_mut0p1\corrida_002
+3;config/instance_nfl_reducido.properties;1424257266;stagnation;172932;357;1000;8;0.005;100;C:\AE\AlgoritmoEvolutivoIng\AlgoritmoEvolutivo\resultados_moea\run_moea_reducido_batch\pop200_cx0p8_mut0p1\corrida_003
+4;config/instance_nfl_reducido.properties;760871889;stagnation;163773;344;1000;4;0.005;100;C:\AE\AlgoritmoEvolutivoIng\AlgoritmoEvolutivo\resultados_moea\run_moea_reducido_batch\pop200_cx0p8_mut0p1\corrida_004
